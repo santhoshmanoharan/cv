@@ -1,0 +1,4 @@
+import math
+for i in range(int(input())):
+  n = input().split()
+  print(math.gcd(int(a[0]),int(a[1])))
